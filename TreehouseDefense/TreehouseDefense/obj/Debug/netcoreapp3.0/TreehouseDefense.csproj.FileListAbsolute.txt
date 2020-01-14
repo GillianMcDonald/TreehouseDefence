@@ -1,0 +1,11 @@
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense.deps.json
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense.runtimeconfig.json
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense.runtimeconfig.dev.json
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense.dll
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/bin/Debug/netcoreapp3.0/TreehouseDefense.pdb
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/obj/Debug/netcoreapp3.0/TreehouseDefense.csprojAssemblyReference.cache
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/obj/Debug/netcoreapp3.0/TreehouseDefense.AssemblyInfoInputs.cache
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/obj/Debug/netcoreapp3.0/TreehouseDefense.AssemblyInfo.cs
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/obj/Debug/netcoreapp3.0/TreehouseDefense.dll
+/Users/codenation/Projects/TreehouseDefense/TreehouseDefense/obj/Debug/netcoreapp3.0/TreehouseDefense.pdb
